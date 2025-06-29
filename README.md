@@ -10,6 +10,10 @@ Nithish  :https://github.com/nithishreddy262
 
 Sree     :https://github.com/mounikagarikipati/Software-Assurance/# Assignment4Collaboration
 
+<<<<<<< HEAD
+- Sree: Added my collaboration update by editing this file.(Mounika)
+
+=======
 ## Creating PRs by modifying other members repos:
 
 ### Creating PR for Rasiel by cloning and creating a new Nithish Branch:
@@ -72,3 +76,4 @@ Fix Options:
  Option 2: Get Permission to Push
 
  I created PRs with Option 1 to collab with other team members allowing me not wait for their written permissions.
+>>>>>>> bcf3ba7b7f91cf80a971c46fd7d7cb43d25f54b9
